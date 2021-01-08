@@ -91,7 +91,7 @@ HTTP Method: GET
 Eg:localhost:8000/getTheatres?movie=Vande&city=Mumbai
 
 Auth Not Required.
-'
+
 
 6.availableShows
 
